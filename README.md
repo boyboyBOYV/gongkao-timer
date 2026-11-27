@@ -4,10 +4,6 @@
 内置行测、申论、公安三种模板，其中公安卷不分模块、整卷一条计时。
 不联网、不注册、不上传数据。
 
-![计时页](docs/screenshots/timer-light.png)
-
-![公安整卷计时](docs/screenshots/police-timer.png)
-
 ## 下载即用（Windows 10/11）
 
 到 Releases 页面下载：
@@ -39,16 +35,6 @@ python source\gk_timer.py
 - 记录页每块可录入得分，列表和详情显示总分；折线图可在「用时 / 得分」之间切换，得分模式统计有分套数、平均分和最高分。
 - 右上角「日间 / 夜间」即时切换，不重置正在跑的计时；选择写入 `ui.theme`。
 - 套题命名、分模块/总用时、CSV 导出（含总分和每块得分）、重命名/删除、单实例运行。
-
-## 截图
-
-| 记录页（日间） | 设置页（日间） |
-| --- | --- |
-| ![记录页](docs/screenshots/records-light.png) | ![设置页](docs/screenshots/settings-light.png) |
-
-| 计时页（夜间） | 调整目标 |
-| --- | --- |
-| ![夜间](docs/screenshots/timer-dark.png) | ![调整目标](docs/screenshots/dialog-target.png) |
 
 ## 自测
 
